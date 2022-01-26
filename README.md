@@ -18,6 +18,8 @@ Breaking Bad is one of the best shows ever made according to many people. Are yo
 
 # Technologies 👨‍💻
 
+![HTML Icon](https://i.ibb.co/9tyHGr7/html-logo.png, "HTML")
+![CSS Icon](https://i.ibb.co/b3QNSgX/css-logo.png, "CSS")
 ![React Icon](https://i.ibb.co/BBFKyz9/Group-9.png, "React")
 ![JavaScript Icon](https://i.ibb.co/L5RS8g1/Group-11.png, "JavaScript")
 
@@ -30,4 +32,3 @@ Breaking Bad is one of the best shows ever made according to many people. Are yo
 <br />
 
 ![Breaking Bad Cast Flip Actor](https://i.ibb.co/94xgbWL/breaking-bad-cast-2.png)
-
