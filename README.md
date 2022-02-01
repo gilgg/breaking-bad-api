@@ -27,8 +27,8 @@ Breaking Bad is one of the best shows ever made according to many people. Are yo
 
 # Screenshots 🎮
 
-![Breaking Bad Cast Main](https://i.ibb.co/PNvLmx5/breaking-bad-cast-1.png)
+![Breaking Bad Cast Main](https://i.ibb.co/ZMY39v1/breaking-bad-cast-1.png)
 
 <br />
 
-![Breaking Bad Cast Flip Actor](https://i.ibb.co/94xgbWL/breaking-bad-cast-2.png)
+![Breaking Bad Cast Flip Actor](https://i.ibb.co/TL2KXLj/breaking-bad-cast-2.png)
